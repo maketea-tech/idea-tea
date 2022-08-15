@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.fallending.ideatea.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.fallending.ideatea.MyBundle
 
 class MyApplicationService {
 
